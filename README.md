@@ -42,7 +42,6 @@ Make sure you have Python 3.8+ installed. You will also need API access to your 
 You can explore the iterative development process in the `notebooks/` directory:
 
 - `01_eda.ipynb`: Exploratory Data Analysis.
-- `02_ml_models.ipynb`: Model training, evaluation, and interpretability.
 
 To run a sample prediction pipeline from the command line:
 
@@ -93,8 +92,7 @@ health-risk-ai/
 │   └── processed/      # Cleaned and transformed data ready for modeling
 │
 ├── notebooks/          # Jupyter notebooks for interactive development
-│   ├── 01_eda.ipynb        # Exploratory Data Analysis
-│   └── 02_ml_models.ipynb  # ML modeling and evaluation
+│   └── 01_eda.ipynb        # Exploratory Data Analysis
 │
 ├── src/                # Source code for the project
 │   ├── data_prep.py    # Data loading and preprocessing scripts
