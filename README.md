@@ -21,7 +21,7 @@ Make sure you have Python 3.8+ installed. You will also need API access to your 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/health-risk-ai.git
+   git clone https://github.com/xepond/health-risk-ai.git
    cd health-risk-ai
    ```
 
